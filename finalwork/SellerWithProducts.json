@@ -1,0 +1,62 @@
+[
+  {
+    "sellerID": 1,
+    "productID": 1,
+    "price": 17,
+    "amount": 14
+  },
+  {
+    "sellerID": 2,
+    "productID": 5,
+    "price": 47,
+    "amount": 36
+  },
+  {
+    "sellerID": 3,
+    "productID": 3,
+    "price": 63,
+    "amount": 47
+  },
+  {
+    "sellerID": 4,
+    "productID": 2,
+    "price": 48,
+    "amount": 90
+  },
+  {
+    "sellerID": 5,
+    "productID": 1,
+    "price": 13,
+    "amount": 82
+  },
+  {
+    "sellerID": 6,
+    "productID": 2,
+    "price": 73,
+    "amount": 45
+  },
+  {
+    "sellerID": 7,
+    "productID": 3,
+    "price": 44,
+    "amount": 19
+  },
+  {
+    "sellerID": 8,
+    "productID": 2,
+    "price": 93,
+    "amount": 29
+  },
+  {
+    "sellerID": 9,
+    "productID": 5,
+    "price": 92,
+    "amount": 46
+  },
+  {
+    "sellerID": 10,
+    "productID": 1,
+    "price": 36,
+    "amount": 48
+  }
+]

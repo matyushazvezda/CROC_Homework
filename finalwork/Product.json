@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "productName": "Shoes"
+  },
+  {
+    "id": 2,
+    "productName": "Cat"
+  },
+  {
+    "id": 3,
+    "productName": "Dog"
+  },
+  {
+    "id": 4,
+    "productName": "Apple"
+  },
+  {
+    "id": 5,
+    "productName": "Planner"
+  },
+  {
+    "id": 6,
+    "productName": "Ipod"
+  },
+  {
+    "id": 7,
+    "productName": "Oil"
+  },
+  {
+    "id": 8,
+    "productName": "Paper"
+  },
+  {
+    "id": 9,
+    "productName": "Box"
+  },
+  {
+    "id": 10,
+    "productName": "Table"
+  }
+]
